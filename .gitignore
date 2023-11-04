@@ -1,0 +1,4 @@
+*.bak
+*-back*
+~*
+.DS_Store
